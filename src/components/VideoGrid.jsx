@@ -1,4 +1,4 @@
-// mit - video grid with loading
+
 import VideoCard from "./VideoCard"
 
 function VideoGrid(props) {
