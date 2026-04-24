@@ -1,4 +1,4 @@
-// mit - home page layout
+
 import CategoryChips from "./components/CategoryChips"
 import VideoGrid from "./components/VideoGrid"
 
